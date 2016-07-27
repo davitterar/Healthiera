@@ -14,8 +14,5 @@ public class MainActivity extends AppCompatActivity {
 
         t=(TextView) findViewById(R.id.textView2);
         t.setText("healthiera");
-
     }
-
-
 }
