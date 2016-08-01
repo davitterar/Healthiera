@@ -5,5 +5,5 @@ public class Calendar  extends DBObject
 {
     public int Id;
     public int EventId;
-    public Date date_time;
+    public Date DateTime;
 }
